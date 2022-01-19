@@ -1,7 +1,7 @@
 已读论文或已实现模型/算法：
 Survey：
-Object detection in 20years
-A Survey of Modern Deep Learning based Object Detection Models
+--Object detection in 20years
+--A Survey of Modern Deep Learning based Object Detection Models
 
 Classification：
 --LeNet
